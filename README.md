@@ -4,6 +4,7 @@
 # About
 
 -This is a simple website
+
 -Pure HTML and CSS used
 
 # To see the project
