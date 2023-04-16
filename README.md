@@ -8,7 +8,7 @@
 
 # To see the project
 
-file:///C:/Users/Akshat%20Saxena/OneDrive/Documents/Akshat/javaaa/Turism/index.html
+https://simple-tourism-website.netlify.app/
 
 # Preview
 
